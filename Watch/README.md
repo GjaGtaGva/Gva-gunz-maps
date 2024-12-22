@@ -2,4 +2,6 @@ Watch
 
 Modeled after real working clock mechanism.
 
-Made with gtk, then ported and rendered with 3dsmax and lit using WorldEdit
+Suitable for: Deathmatch, Flips gladiator, Hide and Seek, maybe TDM
+
+Made with gtk, then ported and rendered with 3dsmax (thanks Hellsniper) and lit using WorldEdit.
