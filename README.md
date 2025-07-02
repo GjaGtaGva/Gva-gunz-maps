@@ -12,6 +12,7 @@ Maps list by purpose:
 
 ### PVP:
 * Watch
+* Altar
 * Clockwork-VI
 * Gvourglass
 * Crafting
