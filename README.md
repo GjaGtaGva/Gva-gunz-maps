@@ -21,6 +21,5 @@ Maps list by purpose:
 ### Exploration, etc.:
 * WatchQuest
 * Darkdream
-* Albox
 * scary-maze
 * thin_ice
