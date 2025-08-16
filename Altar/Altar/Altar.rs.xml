@@ -158,7 +158,16 @@
 			<DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
 		</DUMMY>
 	</DUMMYLIST>
+	<FOG min="500" max="7500">
+		<R>51</R>
+		<G>53</G>
+		<B>71</B>
+	</FOG> 
 	<GLOBAL>
+		<fog_enable>TRUE</fog_enable>
+		<fog_min>500</fog_min>
+		<fog_max>7500</fog_max>
+		<fog_color>51,53,71</fog_color>
 		<far_z>10000.0</far_z>
 	</GLOBAL>
 </XML>
