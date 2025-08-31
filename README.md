@@ -5,7 +5,7 @@ Each folder contains the map files in a folder, zip and mrs, plus some extra fil
 
 Some maps are not lit, they will have no .LM file.
 
-HP/AP/Ammo spawns are not set on my maps, I just can't get them to work. Player spawn rotations may be chaotic too.
+HP/AP/Ammo spawns are not set on my maps, Player spawn rotations may be chaotic too.
 
 ---
 
@@ -24,7 +24,8 @@ Maps list by purpose:
 * Enice
 
 ### Exploration, etc.:
-* WatchQuest
 * Darkdream
+* Glich-forst
+* WatchQuest
 * scary-maze
 * thin_ice
