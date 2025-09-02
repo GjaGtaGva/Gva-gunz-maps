@@ -42,6 +42,12 @@
 			<DIRECTION>-1.00000000 0.00000000 0.00000000</DIRECTION>
 		</DUMMY>
 	</DUMMYLIST>
+	<OBJECTLIST>
+		<OBJECT name="obj_sea_pit.elu"/>
+	</OBJECTLIST>
+	<OBJECTLIST>
+		<OBJECT name="flare_red.elu"/>
+	</OBJECTLIST>
 	<FOG min="400" max="3300">
 		<R>41</R>
 		<G>39</G>
