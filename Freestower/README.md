@@ -1,7 +1,9 @@
-Freestower
+## Freestower
 
-Space towering skillmap, based entirely on Freestyle gunz new map features.
+Space towering skillmap, based entirely on Freestyle Gunz new map features.
 
-Freestyle map elements required. Unsummitable without them.
+Freestyle map elements (felements) required. Unsummitable without them.
 
-![alt text](Freestower.jpg)
+The tower is full of secrets.
+
+![alt text](Freestyle%20tower.jpg)
