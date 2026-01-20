@@ -22,6 +22,7 @@ Maps list by purpose:
 * Gvourglass
 * Crafting
 * Enice
+* Hoverena
 
 ### Exploration, etc.:
 * Darkdream
