@@ -538,3 +538,143 @@ Gvblocks/rust16b
 "classname" "info_player_teamdeathmatch_0"
 "origin" "-1632 -928 1024"
 }
+// entity 6
+{
+"classname" "light"
+"origin" "4992 -1536 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 7
+{
+"classname" "light"
+"origin" "2944 -1280 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 8
+{
+"classname" "light"
+"origin" "1152 -1280 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 9
+{
+"classname" "light"
+"origin" "-640 -2048 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 10
+{
+"classname" "light"
+"origin" "4992 -2432 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 11
+{
+"classname" "light"
+"origin" "2944 -3456 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 12
+{
+"classname" "light"
+"origin" "1152 -3456 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 13
+{
+"classname" "light"
+"origin" "-640 -2688 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 14
+{
+"classname" "light"
+"origin" "4992 -3456 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 15
+{
+"classname" "light"
+"origin" "-1984 -3520 -2752"
+"light" "8000"
+"_color" "0.4 0.4 0.62"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 16
+{
+"classname" "light"
+"origin" "-1632 -1248 -2368"
+"light" "8000"
+"_color" "0.42 0.15 0.08"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 17
+{
+"classname" "light"
+"origin" "-1984 -2304 -2752"
+"light" "8000"
+"_color" "0.4 0.4 0.62"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 18
+{
+"classname" "light"
+"origin" "2944 -2304 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
+// entity 19
+{
+"classname" "light"
+"origin" "1152 -2304 -2304"
+"light" "8000"
+"_color" "0.56 0.2 0.11"
+"_castshadow" "0"
+"_attenuationstart" "500"
+"_attenuationend" "3600"
+}
